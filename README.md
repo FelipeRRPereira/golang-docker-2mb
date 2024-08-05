@@ -11,9 +11,9 @@
 ## Índice
 
 <ul>
-  <li><a href="#-introdução">Introdução</a></li>
-  <li><a href="#-pré-requisitos">Pré-requisitos</a></li>
-  <li><a href="#-executar">Executar</a></li>
+  <li><a href="#introdução">Introdução</a></li>
+  <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+  <li><a href="#executar">Executar</a></li>
 </ul>
 
 ---
